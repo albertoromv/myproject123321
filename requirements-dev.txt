@@ -1,0 +1,10 @@
+ruff
+mypy
+black
+isort
+pytest
+httpx
+pytest-mock
+types-passlib
+types-python-jose
+types-pytz

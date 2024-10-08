@@ -1,0 +1,30 @@
+instalar uv
+https://earthly.dev/blog/python-uv/
+
+ruff
+https://marketplace.visualstudio.com/items?itemName=charliermarsh.ruff
+
+mypy
+https://stackoverflow.com/questions/66319787/issues-installing-mypy-in-vscode
+
+session3
+advanced type techniques
+https://arjancodes.com/blog/how-to-improve-python-code-with-type-hinting/
+
+
+vídeo fastapi deployed in Deta
+https://dev.to/sarthaksavvy/fastapi-4-hours-free-course-5cgg
+
+
+PythonAnywhere
+https://www.youtube.com/watch?v=z7OqLrz7gB8
+
+
+
+
+
+
+
+
+
+
