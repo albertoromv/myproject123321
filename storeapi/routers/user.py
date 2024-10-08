@@ -40,7 +40,7 @@ async def register(user: UserIn):
 
 @router.post("/token")
 async def login(form_data: Annotated[OAuth2PasswordRequestForm, Depends()]):
-    user = await authenticate_user(form_data.email, form_data.password)
+    user = await authenticate_user(form_data.username, form_data.password) # in the form_data the attributes are called username and password
     access_token = create_access_token(user.email)
     return {"access_token": access_token, "token_type": "bearer"}
 
