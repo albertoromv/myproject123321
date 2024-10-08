@@ -10,5 +10,6 @@ asgi-correlation-id
 python-json-logger
 python-jose
 python-multipart
+bcrypt==4.0.1
 passlib[bcrypt]
 pytz
